@@ -1,3 +1,3 @@
 # posts-rest-api
 
-Rest API written in GO.
+Rest API written in PHP.
